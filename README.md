@@ -42,7 +42,7 @@ It showcases my learning journey in:
 ## 📬 Connect With Me
 💼 **Name:** V. Durga  
 📧 **Role:** Web Development Intern at ShadowFox  
-
+💼 GitHub: https://github.com/vanaparthidurga8-creator
 ---
 
 ⭐ Thank you for visiting my repository!
